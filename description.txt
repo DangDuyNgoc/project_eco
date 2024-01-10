@@ -1,0 +1,9 @@
+npm install -D tailwindcss
+npx tailwindcss init
+
+MUI UI and MUI icons
+
+npm i react-alice-carousel
+
+dùng 1 trong 2
+type: mongoose.Schema.Types.ObjectId || mongoose.ObjectId
